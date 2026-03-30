@@ -27,5 +27,7 @@
 1.详细请见video
 
                          
-### English Version                 
-The English version of this README is available in README.English.md.               
+---
+
+### English Version
+The English version of this README is available in [README.English.md](./README.English.md).      
